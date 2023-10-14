@@ -32,3 +32,4 @@
 - [Darklurker](doc/darklurker.md)
 - [Wrap up quest lines](doc/wrap-up-quest-lines.md)
 - [Obtain covenant rewards](doc/covenant-rewards.md)
+- [Nashandra & Aldia](doc/nashandra-aldia.md)
