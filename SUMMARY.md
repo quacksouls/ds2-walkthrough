@@ -33,3 +33,4 @@
 - [Wrap up quest lines](doc/wrap-up-quest-lines.md)
 - [Obtain covenant rewards](doc/covenant-rewards.md)
 - [Nashandra & Aldia](doc/nashandra-aldia.md)
+- [What's next?](doc/whats-next.md)
