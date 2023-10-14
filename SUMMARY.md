@@ -27,3 +27,4 @@
 - [Shulva, Sanctum City](doc/shulva.md)
 - [Brume Tower](doc/brume-tower.md)
 - [Frozen Eleum Loyce](doc/frozen-eleum-loyce.md)
+- [Throne of Want](doc/throne-want.md)
