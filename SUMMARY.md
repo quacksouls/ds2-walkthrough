@@ -15,3 +15,4 @@
 - [Black Gulch](doc/black-gulch.md)
 - [Iron Keep & Belfry Sol](doc/iron-keep-belfry-sol.md)
 - [Shaded Woods](doc/shaded-woods.md)
+- [Doors of Pharros](doc/doors-pharros.md)
