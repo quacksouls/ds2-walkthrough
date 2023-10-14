@@ -25,3 +25,4 @@
 - [Dragon Shrine](doc/dragon-shrine.md)
 - [Revisit Things Betwixt](doc/revisit-things-betwixt.md)
 - [Shulva, Sanctum City](doc/shulva.md)
+- [Brume Tower](doc/brume-tower.md)
