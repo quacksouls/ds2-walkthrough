@@ -17,3 +17,4 @@
 - [Shaded Woods](doc/shaded-woods.md)
 - [Doors of Pharros](doc/doors-pharros.md)
 - [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
+- [Drangleic Castle](doc/drangleic-castle.md)
