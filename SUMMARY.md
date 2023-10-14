@@ -30,3 +30,4 @@
 - [Throne of Want](doc/throne-want.md)
 - [Giants' Memories](doc/giants-memories.md)
 - [Darklurker](doc/darklurker.md)
+- [Wrap up quest lines](doc/wrap-up-quest-lines.md)
