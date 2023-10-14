@@ -20,3 +20,4 @@
 - [Drangleic Castle](doc/drangleic-castle.md)
 - [Shrine of Amana](doc/shrine-amana.md)
 - [Undead Crypt](doc/undead-crypt.md)
+- [Aldia's Keep](doc/aldias-keep.md)
