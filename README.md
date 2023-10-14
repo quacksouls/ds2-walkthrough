@@ -1,24 +1,19 @@
-# Project name
+# Walkthrough of Dark Souls II: SotFS
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
+A beginner's guide to
+[Dark Souls 2: SotFS](https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/).
+This guide complements the videos here:
 
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWPlgrZcEj-d_E9rdL-oCdbb
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
