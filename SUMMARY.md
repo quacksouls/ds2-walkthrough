@@ -13,3 +13,4 @@
 - [Grave of Saints](doc/grave-saints.md)
 - [The Gutter](doc/gutter.md)
 - [Black Gulch](doc/black-gulch.md)
+- [Iron Keep & Belfry Sol](doc/iron-keep-belfry-sol.md)
