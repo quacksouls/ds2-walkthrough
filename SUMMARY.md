@@ -22,3 +22,4 @@
 - [Undead Crypt](doc/undead-crypt.md)
 - [Aldia's Keep](doc/aldias-keep.md)
 - [Dragon Aerie](doc/dragon-aerie.md)
+- [Dragon Shrine](doc/dragon-shrine.md)
