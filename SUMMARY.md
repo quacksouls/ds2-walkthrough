@@ -28,3 +28,4 @@
 - [Brume Tower](doc/brume-tower.md)
 - [Frozen Eleum Loyce](doc/frozen-eleum-loyce.md)
 - [Throne of Want](doc/throne-want.md)
+- [Giants' Memories](doc/giants-memories.md)
