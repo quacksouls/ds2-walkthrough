@@ -1,6 +1,6 @@
 {
   "name": "ds2-walkthrough",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Beginner's guide to Dark Souls II: SotFS",
   "main": "index.js",
   "scripts": {
