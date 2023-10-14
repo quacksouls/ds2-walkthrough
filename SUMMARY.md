@@ -10,3 +10,4 @@
 - [The Lost Bastille & Belfry Luna](doc/lost-bastille-belfry-luna.md)
 - [Huntsman's Copse](doc/huntsmans-copse.md)
 - [Harvest Valley & Earthen Peak](doc/harvest-valley-earthen-peak.md)
+- [Grave of Saints](doc/grave-saints.md)
