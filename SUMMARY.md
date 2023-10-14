@@ -21,3 +21,4 @@
 - [Shrine of Amana](doc/shrine-amana.md)
 - [Undead Crypt](doc/undead-crypt.md)
 - [Aldia's Keep](doc/aldias-keep.md)
+- [Dragon Aerie](doc/dragon-aerie.md)
