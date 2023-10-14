@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 A beginner's guide to
-[Dark Souls 2: SotFS](https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/).
+[Dark Souls II: SotFS](https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/).
 This guide complements the videos here:
 
 https://www.youtube.com/playlist?list=PL2OiiNZU6nWPlgrZcEj-d_E9rdL-oCdbb
