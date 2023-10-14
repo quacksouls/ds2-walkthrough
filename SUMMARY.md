@@ -16,3 +16,4 @@
 - [Iron Keep & Belfry Sol](doc/iron-keep-belfry-sol.md)
 - [Shaded Woods](doc/shaded-woods.md)
 - [Doors of Pharros](doc/doors-pharros.md)
+- [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
