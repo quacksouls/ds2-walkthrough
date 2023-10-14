@@ -11,3 +11,4 @@
 - [Huntsman's Copse](doc/huntsmans-copse.md)
 - [Harvest Valley & Earthen Peak](doc/harvest-valley-earthen-peak.md)
 - [Grave of Saints](doc/grave-saints.md)
+- [The Gutter](doc/gutter.md)
