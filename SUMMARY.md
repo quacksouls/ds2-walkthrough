@@ -7,3 +7,4 @@
 - [Forest of Fallen Giants](doc/forest-fallen-giants.md)
 - [Heide's Tower of Flame](doc/heides-tower-flame.md)
 - [No-man's Wharf](doc/no-mans-wharf.md)
+- [The Lost Bastille & Belfry Luna](doc/lost-bastille-belfry-luna.md)
